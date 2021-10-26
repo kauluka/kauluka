@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kauluka
-- 👀 I’m interested in EVERYTHING
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: https://twitter.com/ulufarms
 
