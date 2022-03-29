@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @kauluka
+- 👋 Hi, I’m Kaulu!
+- I am a student at Seattle Central Community College.
+- I hope to be a professional software engineer. 
 
 <!---
 kauluka/kauluka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
